@@ -1,0 +1,8 @@
+.todo-li:hover {
+    background-color: red;
+}
+
+.container-centered {
+    display: flex;
+    justify-content: center;
+}
